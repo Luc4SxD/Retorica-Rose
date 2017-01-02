@@ -1,0 +1,52 @@
+body{
+	background-image: url("../img/mtm.png");
+	background-repeat repeat-y: 
+}
+
+.container{
+	width: 800px;
+	height: 1280px;
+	border: 2px solid black;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header{
+	width: 800px;
+	height: 150px;
+	border: 2px dashed red;
+	box-sizing: border-box;
+}
+
+.nav{
+	width: 800px;
+	height: 50px;
+	border: 2px dashed orange;
+	box-sizing: border-box;
+}
+
+.section{
+	width: 550px;
+	height: 930px;
+	border: 2px dashed green;
+	box-sizing: border-box;
+	float: left;
+}
+
+.aside{
+	width: 250px;
+	height: 930px;
+	border: 2px dashed blue;
+	box-sizing: border-box;
+	float: right;
+}
+
+.footer{
+	width: 800px;
+	height: 150px;
+	border: 2px dashed magenta;
+	box-sizing: border-box;
+	clear: both;
+}
+
